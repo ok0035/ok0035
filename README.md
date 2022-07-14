@@ -1,7 +1,7 @@
 ### Hi I'm Young-D👋
 
 
-![Android](https://img.shields.io/badge/-Android-yellowgreen
+![Android](https://img.shields.io/badge/-Android-yellowgreen)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-yellow)
 
 <!--
