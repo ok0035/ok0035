@@ -3,7 +3,7 @@
 
 ![Android](https://img.shields.io/badge/-Android-yellowgreen)
 
-![Kotlin](https://img.shields.io/badge/-Android-yellowgreen)
+![Kotlin](https://img.shields.io/badge/-Kotlin-yellow)
 
 <!--
 **ok0035/ok0035** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
