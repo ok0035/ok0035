@@ -2,7 +2,7 @@
 
 
 ![Android](https://img.shields.io/badge/-Android-yellowgreen)
-![Kotlin](https://img.shields.io/badge/-Kotlin-yellow
+![Kotlin](https://img.shields.io/badge/-Kotlin-yellow)
 ![Kotlin](https://img.shields.io/badge/-Java-green)
 
 <!--
