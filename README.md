@@ -1,5 +1,13 @@
-### Hi I'm Young-D👋
+#Mobile App Developer
 
+
+##Andriod
+
+
+###안녕하세요. 안드로이드 앱 개발자 장영도입니다.👋
+
+안드로이드 개발을 처음 접한지는 6년 되었으며,
+프리랜서와 인턴으로 1년, 정규직으로 3년의 경력을 가지고 있습니다
 
 ![Android](https://img.shields.io/badge/-Android-yellowgreen)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-yellow)
