@@ -8,10 +8,6 @@
 <img src="https://github.com/ok0035/ok0035/assets/19370688/1ff5f5f0-06cd-463b-9b1f-3109a1fe5f4c" width="295" height="180" alt="영어영재">
 
 
-</br>
-</br>
-
-
 ## :technologist: About Me 
 안녕하세요 👋
 
@@ -21,8 +17,6 @@
 - 코드를 구조화하고 패턴화하는 것을 좋아하며, 복잡한 문제를 단순화하여 본질에 집중하는 것을 선호합니다.
 - 사용자 경험을 최우선으로 생각하며, 사용자의 요구를 충족시키는 동시에 기술적 혁신을 추구하고 있습니다.</br>
 
-
-</br>
 
 ## :memo: Experience
 
@@ -47,7 +41,6 @@
     - 영어 단어 암기 앱 개발 및 배포
     - 동화책 어플리케이션 개발 및 배포
  
-</br>
 
 ## :sparkles: Tech stack
 
@@ -84,8 +77,6 @@
         - ![](https://img.shields.io/badge/Design-Figma-aqua)
         - ![](https://img.shields.io/badge/Design-Zeplin-aqua)
 
-</br>
-
 
 ## :zap: Links
 
@@ -95,9 +86,6 @@
     - https://play.google.com/store/apps/details?id=com.yellowgreen.dokdofamily01&pcampaignid=web_share
 - 영어 단어 암기 앱
     - https://play.google.com/store/apps/details?id=com.yellowgreen.engtextbook&pcampaignid=web_share
-
- 
- </br>
 
  
 ## :speech_balloon: Contact Me
