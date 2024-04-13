@@ -22,7 +22,7 @@ I am a mobile application developer specializing in user-centric mobile applicat
     - 데이트팝 어플리케이션 유지보수
     - 구독 서비스 "팝패스" 개발
     - 토스 페이먼츠 간편결제 "팝페이" 기능 개발
-    - 클린 아키텍쳐와 MVVM 도입
+    - Clean Architecture/MVVM 도입
  
 
 ***다빈시스템스***
