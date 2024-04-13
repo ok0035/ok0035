@@ -47,10 +47,11 @@
 
 - Datepop
     - https://play.google.com/store/apps/details?id=com.tenfingers.seouldatepop
-- 영어 단어 암기 앱
-    - https://play.google.com/store/apps/details?id=com.yellowgreen.engtextbook&pcampaignid=web_share
 - 독도네 가족들 동화책 앱
     - https://play.google.com/store/apps/details?id=com.yellowgreen.dokdofamily01&pcampaignid=web_share
+- 영어 단어 암기 앱
+    - https://play.google.com/store/apps/details?id=com.yellowgreen.engtextbook&pcampaignid=web_share
+
  
 ## :speech_balloon: Contact Me
 [zerodeg93@gmail.com](mailto:zerodeg93@gmail.com)
