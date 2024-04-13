@@ -44,41 +44,6 @@
     - 동화책 어플리케이션 개발 및 배포
 
 
-<!--## _!-->
-## :technologist: About Me
-
-Hello 👋
-
-- I have expertise in user-centered mobile application development based on years of practical experience.
-- I strive to create efficient and high-performance applications based on a deep understanding of the latest technology trends.
-- I value collaboration and maintain an efficient workflow in practice through Agile Process.
-- I enjoy structuring and patterning code, and prefer to simplify complex problems to focus on the essentials.
-- I prioritize user experience, striving to meet user needs while pursuing technological innovation.</br>
-
-
-## :speech_balloon: Experience
-
-
-***Ten Fingers***
-
-- Period: 2022.05 ~ Present
-    - Maintenance of the DatePop application
-    - Developed "PopPass," a subscription service
-    - Developed "PopPay," a simple payment feature
-    - Clean Architecture and MVVM
-
-***Dabin Systems***
-
-- Period: 2019.01 ~ 2021.06
-    - Developed applications for measuring LTE and 5G mobile communications
-
-***Freelancer***
-
-- Period: 2017.07 ~ 2018.02
-    - Developed and deployed an English vocabulary memorization app
-    - Developed and deployed a storybook application
-
-
 ## Links
 
 - Datepop
