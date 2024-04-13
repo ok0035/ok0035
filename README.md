@@ -84,6 +84,7 @@
     - https://play.google.com/store/apps/details?id=com.tenfingers.seouldatepop
 - 독도네 가족들 동화책 앱
     - https://play.google.com/store/apps/details?id=com.yellowgreen.dokdofamily01&pcampaignid=web_share
+    - https://www.youtube.com/watch?v=a_1fCcaTDQE
 - 영어 단어 암기 앱
     - https://play.google.com/store/apps/details?id=com.yellowgreen.engtextbook&pcampaignid=web_share
 
