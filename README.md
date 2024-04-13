@@ -2,22 +2,9 @@
 
 <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="30" height="30" alt="Github"><img src="https://user-images.githubusercontent.com/25181517/192108895-20dc3343-43e3-4a54-a90e-13a4abbc57b9.png" width="30" height="30" alt="Android"><img src="https://user-images.githubusercontent.com/25181517/186711578-bf30cb30-40b7-4b45-95a5-bdf837c372e7.png" width="30" height="30" alt="Xcode"><img src="https://user-images.githubusercontent.com/25181517/183912952-83784e94-629d-4c34-a961-ae2ae795b662.png" width="30" height="30" alt="Jira"><img src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png" width="30" height="30" alt="Postman"><img src="https://user-images.githubusercontent.com/25181517/189715289-df3ee512-6eca-463f-a0f4-c10d94a06b2f.png" width="30" height="30" alt="Figma"><img src="https://github.com/ok0035/ok0035/assets/19370688/536636a5-0543-425f-b9ff-480aad94d941" width="30" height="30" alt="Slack">
 
-<!--
-## Language
+<img src="https://github.com/ok0035/ok0035/assets/19370688/51f81c8f-338e-4afa-80f6-46a77b9959dd" width="210" height="360" alt="데이트팝1">
+<img src="https://github.com/ok0035/ok0035/assets/19370688/6a05fbcb-0718-454d-81a6-80d49975af33" width="210" height="360" alt="데이트팝2">
 
-- [한국어](#-)
-    - [소개](#소개)
-    - [경력](#경력)
-
----
-
-- [English](#_)
-    - [About Me](#about-me)
-    - [Experience](#experience)
-
-## -
-
-!-->
 ## :technologist: About Me 
 안녕하세요 👋
 
@@ -89,6 +76,11 @@ Hello 👋
     - Developed and deployed a storybook application
 
 ---
+
+## Links
+
+- Datepop
+    - https://play.google.com/store/apps/details?id=com.tenfingers.seouldatepop
 
 <!--
 **ok0035/ok0035** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
