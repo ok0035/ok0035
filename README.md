@@ -36,11 +36,8 @@ I am a mobile application developer specializing in user-centric mobile applicat
 - 2017.07 ~ 2018.02
     - 영어 단어 암기 앱 개발 및 배포
     - 동화책 어플리케이션 개발 및 배포
- 
-      
-</td>
-<td valign="top" width="50%>
 
+ ---
 
 ***Ten Fingers***
 
