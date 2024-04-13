@@ -43,8 +43,6 @@
     - 영어 단어 암기 앱 개발 및 배포
     - 동화책 어플리케이션 개발 및 배포
 
- ---
-
 
 <!--## _!-->
 ## :technologist: About Me
@@ -80,12 +78,15 @@ Hello 👋
     - Developed and deployed an English vocabulary memorization app
     - Developed and deployed a storybook application
 
----
 
 ## Links
 
 - Datepop
     - https://play.google.com/store/apps/details?id=com.tenfingers.seouldatepop
+- 영어 단어 암기 앱
+    - https://play.google.com/store/apps/details?id=com.yellowgreen.engtextbook&pcampaignid=web_share
+- 독도네 가족들 동화책 앱
+    - https://play.google.com/store/apps/details?id=com.yellowgreen.dokdofamily01&pcampaignid=web_share 
 
 <!--
 **ok0035/ok0035** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
