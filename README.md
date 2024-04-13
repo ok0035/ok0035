@@ -5,6 +5,16 @@
 
 
 ## Welcome to my profile
+
+- [한국어 소개](#한국어-소개)
+- [English Introduction](#english-introduction)
+
+## 한국어 소개
+안녕하세요, 저는 개발자 [이름]입니다. 이 프로젝트는 [프로젝트 설명]...
+
+## English Introduction
+Hello, I am developer [Name]. This project is [Project Description]...
+
 안녕하세요! 👋 
 
 저는 다년 간의 실무 경험을 바탕으로 사용자 중심의 모바일 애플리케이션 개발에 전문성을 가지고 있습니다. 최신 기술 트렌드에 대한 깊은 이해를 바탕으로 MVVM, Clean Architecture 등을 적용하여 효율적이고 성능이 우수한 애플리케이션을 제작해왔습니다. 협업을 중시하며, Agile Process를 통해 실무에서 효율적인 작업 흐름을 유지하고 있습니다. 코드를 구조화하고 패턴화하는 것을 좋아하며, 복잡한 문제를 단순화하여 본질에 집중하는 것을 선호합니다. 사용자 경험을 최우선으로 생각하며, 사용자의 요구를 충족시키는 동시에 기술적 혁신을 추구하고 있습니다.</br>
