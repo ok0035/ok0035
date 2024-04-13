@@ -1,4 +1,4 @@
-# Mobile App Developer
+# :iphone: Mobile App Developer
 
 <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="30" height="30" alt="Github"><img src="https://user-images.githubusercontent.com/25181517/192108895-20dc3343-43e3-4a54-a90e-13a4abbc57b9.png" width="30" height="30" alt="Android"><img src="https://user-images.githubusercontent.com/25181517/186711578-bf30cb30-40b7-4b45-95a5-bdf837c372e7.png" width="30" height="30" alt="Xcode"><img src="https://user-images.githubusercontent.com/25181517/183912952-83784e94-629d-4c34-a961-ae2ae795b662.png" width="30" height="30" alt="Jira"><img src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png" width="30" height="30" alt="Postman"><img src="https://user-images.githubusercontent.com/25181517/189715289-df3ee512-6eca-463f-a0f4-c10d94a06b2f.png" width="30" height="30" alt="Figma"><img src="https://github.com/ok0035/ok0035/assets/19370688/536636a5-0543-425f-b9ff-480aad94d941" width="30" height="30" alt="Slack">
 
@@ -18,7 +18,7 @@
 ## -
 
 !-->
-## About Me
+## :technologist: About Me 
 안녕하세요 👋
 
 - 저는 다년 간의 실무 경험을 바탕으로 사용자 중심의 모바일 애플리케이션 개발에 전문성을 가지고 있습니다.
@@ -28,7 +28,7 @@
 - 사용자 경험을 최우선으로 생각하며, 사용자의 요구를 충족시키는 동시에 기술적 혁신을 추구하고 있습니다.</br>
 
 
-## Experience
+## :speech_balloon: Experience
 
 ***텐핑거스***
 
@@ -55,7 +55,7 @@
 
 
 <!--## _!-->
-## About Me
+## :technologist: About Me
 
 Hello 👋
 
@@ -66,7 +66,7 @@ Hello 👋
 - I prioritize user experience, striving to meet user needs while pursuing technological innovation.</br>
 
 
-## Experience
+## :speech_balloon: Experience
 
 
 ***Ten Fingers***
