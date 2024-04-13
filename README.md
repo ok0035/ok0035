@@ -1,8 +1,3 @@
-<link
-  rel="stylesheet"
-  href="https://cdn.jsdelivr.net/gh/dheereshagrwal/colored-icons@1.7.5/src/app/ci.min.css"
-/>
-
 # :iphone: Mobile App Developer
 
 <img src="https://github.com/ok0035/ok0035/assets/19370688/51f81c8f-338e-4afa-80f6-46a77b9959dd" width="210" height="360" alt="데이트팝1">
@@ -29,7 +24,6 @@
 
 </br>
 
-
 ## :memo: Experience
 
 ***텐핑거스***
@@ -55,37 +49,40 @@
  
 </br>
 
-
 ## :sparkles: Tech stack
 
-<img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="30" height="30" alt="Github"><img src="https://user-images.githubusercontent.com/25181517/192108895-20dc3343-43e3-4a54-a90e-13a4abbc57b9.png" width="30" height="30" alt="Android"><img src="https://user-images.githubusercontent.com/25181517/186711578-bf30cb30-40b7-4b45-95a5-bdf837c372e7.png" width="30" height="30" alt="Xcode"><img src="https://user-images.githubusercontent.com/25181517/183912952-83784e94-629d-4c34-a961-ae2ae795b662.png" width="30" height="30" alt="Jira"><img src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png" width="30" height="30" alt="Postman"><img src="https://user-images.githubusercontent.com/25181517/189715289-df3ee512-6eca-463f-a0f4-c10d94a06b2f.png" width="30" height="30" alt="Figma"><img src="https://github.com/ok0035/ok0035/assets/19370688/536636a5-0543-425f-b9ff-480aad94d941" width="30" height="30" alt="Slack">
-
 - ***Language***
-    - **Kotlin**
-    - Java
+    - ![](https://img.shields.io/badge/Language-Kotlin-blue)
+    - ![](https://img.shields.io/badge/Language-Java-blue)
 - ***Architecture***
-    - **Clean Architecture([MyAndroidTemplate](https://github.com/ok0035/AndroidWithCleanArchitecture))**
-    - **MVVM**
+    - ![](https://img.shields.io/badge/Architecture-MVVM-skyblue)
+    - ![](https://img.shields.io/badge/Architecture-CleanArchitecture-skyblue) -> [MyAndroidTemplate](https://github.com/ok0035/AndroidWithCleanArchitecture)
 - ***UI***
-    - Compose
-    - XML
+    - ![](https://img.shields.io/badge/UI-Compose-yellow)
+    - ![](https://img.shields.io/badge/UI-XML-yellow)
 - ***Network***
-    - OkHttpClient
-    - Retrofit
-    - [Sandwich](https://github.com/skydoves/sandwich)
+    - ![](https://img.shields.io/badge/Network-OkHttpClient-red)
+    - ![](https://img.shields.io/badge/Network-Retrofit-red)
+    - ![](https://img.shields.io/badge/Network-Sandwich-red) -> [Sandwich](https://github.com/skydoves/sandwich)
 - ***Dependency Injection***
-    - Dagger Hilt
+    - ![](https://img.shields.io/badge/DI-Hilt-Green)
 - ***DB***
-    - Room
-    - Realm
+    - ![](https://img.shields.io/badge/DB-Room-purple)
+    - ![](https://img.shields.io/badge/DB-Realm-purple)
 - ***Tools***
     - ***Development Tools***
-        - Github, Android Studio, IntelliJ, Xcode, Postman, Firebase
+        - ![](https://img.shields.io/badge/Tools-AndroidStudio-orange)
+        - ![](https://img.shields.io/badge/Tools-IntelliJ-orange)
+        - ![](https://img.shields.io/badge/Tools-Xcode-orange)
+        - ![](https://img.shields.io/badge/Tools-Postman-orange)
     - ***Collaboration Tools***
-        - Git, Jira, Slack, Notion, Trello
+        - ![](https://img.shields.io/badge/Collaboration-Jira-coral)
+        - ![](https://img.shields.io/badge/Collaboration-Slack-coral)
+        - ![](https://img.shields.io/badge/Collaboration-Notion-coral)
+        - ![](https://img.shields.io/badge/Collaboration-Trello-coral)
     - ***Design Tools***
-        - Figma, Zeplin
-
+        - ![](https://img.shields.io/badge/Design-Figma-aqua)
+        - ![](https://img.shields.io/badge/Design-Zeplin-aqua)
 
 </br>
 
