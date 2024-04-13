@@ -19,8 +19,7 @@
 - 코드를 구조화하고 패턴화하는 것을 좋아하며, 복잡한 문제를 단순화하여 본질에 집중하는 것을 선호합니다.
 - 사용자 경험을 최우선으로 생각하며, 사용자의 요구를 충족시키는 동시에 기술적 혁신을 추구하고 있습니다.</br>
 
-
-## :speech_balloon: Experience
+## :memo: Experience
 
 ***텐핑거스***
 
@@ -44,14 +43,17 @@
     - 동화책 어플리케이션 개발 및 배포
 
 
-## Links
+## :zap: Links
 
 - Datepop
     - https://play.google.com/store/apps/details?id=com.tenfingers.seouldatepop
 - 영어 단어 암기 앱
     - https://play.google.com/store/apps/details?id=com.yellowgreen.engtextbook&pcampaignid=web_share
 - 독도네 가족들 동화책 앱
-    - https://play.google.com/store/apps/details?id=com.yellowgreen.dokdofamily01&pcampaignid=web_share 
+    - https://play.google.com/store/apps/details?id=com.yellowgreen.dokdofamily01&pcampaignid=web_share
+ 
+## :speech_balloon: Contact Me
+[zerodeg93@gmail.com](mailto:zerodeg93@gmail.com)
 
 <!--
 **ok0035/ok0035** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
