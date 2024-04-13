@@ -4,7 +4,7 @@
 ![Java](https://img.shields.io/badge/-Java-green)
 
 - [한국어](#-)
-- [English](#--)
+- [English](#_)
 
 ## -
 ## Welcome to my profile
@@ -39,7 +39,7 @@
  ---
 
 
-## --
+## _
 ## Welcome to my profile
 
 Hello 👋
