@@ -9,13 +9,14 @@
 
 [English Ver](https://github.com/ok0035/AboutMe/blob/main/README.md)
 
+<details>
+    <summary>앱 이미지 보기</summary>
 <img src="https://github.com/ok0035/ok0035/assets/19370688/51f81c8f-338e-4afa-80f6-46a77b9959dd" width="210" height="360" alt="데이트팝1">
 <img src="https://github.com/ok0035/ok0035/assets/19370688/6a05fbcb-0718-454d-81a6-80d49975af33" width="210" height="360" alt="데이트팝2"></br>
 
-
-<img src="https://github.com/ok0035/ok0035/assets/19370688/3e677b3a-2d87-4fb0-82d8-7e6fc83ead8c" width="295" height="180" alt="데이트팝2">
+<img src="https://github.com/ok0035/ok0035/assets/19370688/3e677b3a-2d87-4fb0-82d8-7e6fc83ead8c" width="295" height="180" alt="독도네 가족들">
 <img src="https://github.com/ok0035/ok0035/assets/19370688/1ff5f5f0-06cd-463b-9b1f-3109a1fe5f4c" width="295" height="180" alt="영어영재">
-
+</details>
 
 ## :technologist: About Me 
 안녕하세요 👋
