@@ -45,6 +45,10 @@
 
 ## :memo: Experience
 
+<details open>
+
+<summary>텐핑거스 2022.05 ~ 현재</summary></br>
+
 ***텐핑거스***
 
 - 2022.05 ~ 현재
@@ -66,12 +70,12 @@
 - 2017.07 ~ 2018.02
     - 영어 단어 암기 앱 개발 및 배포
     - 동화책 어플리케이션 개발 및 배포
- 
+ </details></br>
 <details>
-    <summary>Eng</summary>
+    <summary>Tenfingers 2022.05 ~ Present</summary>
 
     
-***Ten Fingers***
+***Tenfingers***
 
 - Period: 2022.05 ~ Present
     - Maintenance of the DatePop application
