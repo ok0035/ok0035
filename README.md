@@ -53,40 +53,42 @@
 
 ## :sparkles: Tech stack
 
-- ***Language***
-    - ![](https://img.shields.io/badge/Language-Kotlin-blue)
-      ![](https://img.shields.io/badge/Language-Java-blue)
-- ***Architecture***
-    - ![](https://img.shields.io/badge/Architecture-MVVM-skyblue)
-      ![](https://img.shields.io/badge/Architecture-CleanArchitecture-skyblue)
-    - [MyAndroidTemplate](https://github.com/ok0035/AndroidWithCleanArchitecture)
-- ***UI***
-    - ![](https://img.shields.io/badge/UI-Compose-yellow)
-      ![](https://img.shields.io/badge/UI-XML-yellow)
-- ***Network***
-    - ![](https://img.shields.io/badge/Network-OkHttpClient-red)
-      ![](https://img.shields.io/badge/Network-Retrofit-red)
-      ![](https://img.shields.io/badge/Network-Sandwich-red)
-    - [Sandwich](https://github.com/skydoves/sandwich)
-- ***Dependency Injection***
-    - ![](https://img.shields.io/badge/DI-Hilt-Green)
-- ***DB***
-    - ![](https://img.shields.io/badge/DB-Room-purple)
-      ![](https://img.shields.io/badge/DB-Realm-purple)
-- ***Tools***
-    - ***Development Tools***
-        - ![](https://img.shields.io/badge/DevTools-AndroidStudio-orange)
-          ![](https://img.shields.io/badge/DevTools-IntelliJ-orange)
-          ![](https://img.shields.io/badge/DevTools-Xcode-orange)
-          ![](https://img.shields.io/badge/DevTools-Postman-orange)
-    - ***Collaboration Tools***
-        - ![](https://img.shields.io/badge/CollaborationTools-Jira-coral)
-          ![](https://img.shields.io/badge/CollaborationTools-Slack-coral)
-          ![](https://img.shields.io/badge/CollaborationTools-Notion-coral)
-          ![](https://img.shields.io/badge/CollaborationTools-Trello-coral)
-    - ***Design Tools***
-        - ![](https://img.shields.io/badge/DesignTools-Figma-aqua)
-          ![](https://img.shields.io/badge/DesignTools-Zeplin-aqua)
+
+![](https://img.shields.io/badge/Language-Kotlin-blue)
+![](https://img.shields.io/badge/-Java-blue)
+
+
+![](https://img.shields.io/badge/Architecture-MVVM-skyblue)
+![](https://img.shields.io/badge/-CleanArchitecture-skyblue) 
+[MyAndroidTemplate](https://github.com/ok0035/AndroidWithCleanArchitecture)
+
+![](https://img.shields.io/badge/UI-Compose-yellow)
+![](https://img.shields.io/badge/-XML-yellow)
+
+![](https://img.shields.io/badge/Network-OkHttpClient-red)
+![](https://img.shields.io/badge/-Retrofit-red)
+![](https://img.shields.io/badge/-Sandwich-red)
+[Sandwich](https://github.com/skydoves/sandwich)
+
+![](https://img.shields.io/badge/DI-Hilt-Green)
+
+
+![](https://img.shields.io/badge/DB-Room-purple)
+![](https://img.shields.io/badge/-Realm-purple)
+
+![](https://img.shields.io/badge/DevTools-AndroidStudio-orange)
+![](https://img.shields.io/badge/-IntelliJ-orange)
+![](https://img.shields.io/badge/-Xcode-orange)
+![](https://img.shields.io/badge/-Postman-orange)
+
+
+![](https://img.shields.io/badge/CollaborationTools-Jira-coral)
+![](https://img.shields.io/badge/-Slack-coral)
+![](https://img.shields.io/badge/-Notion-coral)
+![](https://img.shields.io/badge/-Trello-coral)
+
+![](https://img.shields.io/badge/DesignTools-Figma-aqua)
+![](https://img.shields.io/badge/-Zeplin-aqua)
 
 
 ## :zap: Links
