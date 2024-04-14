@@ -60,7 +60,8 @@
 
 ![](https://img.shields.io/badge/Architecture-MVVM-skyblue)
 ![](https://img.shields.io/badge/-CleanArchitecture-skyblue) 
-[MyAndroidTemplate](https://github.com/ok0035/AndroidWithCleanArchitecture)
+
+
 
 ![](https://img.shields.io/badge/UI-Compose-yellow)
 ![](https://img.shields.io/badge/-XML-yellow)
@@ -68,7 +69,7 @@
 ![](https://img.shields.io/badge/Network-OkHttpClient-red)
 ![](https://img.shields.io/badge/-Retrofit-red)
 ![](https://img.shields.io/badge/-Sandwich-red)
-[Sandwich](https://github.com/skydoves/sandwich)
+
 
 ![](https://img.shields.io/badge/DI-Hilt-Green)
 
@@ -92,15 +93,11 @@
 
 
 ## :zap: Links
-
-- Datepop
-    - https://play.google.com/store/apps/details?id=com.tenfingers.seouldatepop
-- 독도네 가족들 동화책 앱
-    - https://play.google.com/store/apps/details?id=com.yellowgreen.dokdofamily01&pcampaignid=web_share
-    - https://www.youtube.com/watch?v=a_1fCcaTDQE
-- 영어 단어 암기 앱
-    - https://play.google.com/store/apps/details?id=com.yellowgreen.engtextbook&pcampaignid=web_share
-
+- ***[템플릿](https://github.com/ok0035/AndroidWithCleanArchitecture)***
+- ***[데이트팝 플레이스토어](https://play.google.com/store/apps/details?id=com.tenfingers.seouldatepop)***
+- ***[독도네 가족들 동화책 앱 플레이스토어](https://play.google.com/store/apps/details?id=com.yellowgreen.dokdofamily01&pcampaignid=web_share)***
+- ***[독도네 가족들 트레일러](https://www.youtube.com/watch?v=a_1fCcaTDQE)***
+- ***[영어 단어 암기 앱 플레이스토어](https://play.google.com/store/apps/details?id=com.yellowgreen.engtextbook&pcampaignid=web_share)***
  
 ## :speech_balloon: Contact Me
 [zerodeg93@gmail.com](mailto:zerodeg93@gmail.com)
