@@ -66,10 +66,10 @@
     - ![](https://img.shields.io/badge/DB-Realm-purple)
 - ***Tools***
     - ***Development Tools***
-        - ![](https://img.shields.io/badge/Tools-AndroidStudio-orange)
-        - ![](https://img.shields.io/badge/Tools-IntelliJ-orange)
-        - ![](https://img.shields.io/badge/Tools-Xcode-orange)
-        - ![](https://img.shields.io/badge/Tools-Postman-orange)
+        - ![](https://img.shields.io/badge/DevTools-AndroidStudio-orange)
+        - ![](https://img.shields.io/badge/DevTools-IntelliJ-orange)
+        - ![](https://img.shields.io/badge/DevTools-Xcode-orange)
+        - ![](https://img.shields.io/badge/DevTools-Postman-orange)
     - ***Collaboration Tools***
         - ![](https://img.shields.io/badge/Collaboration-Jira-coral)
         - ![](https://img.shields.io/badge/Collaboration-Slack-coral)
