@@ -1,5 +1,6 @@
 # :iphone: Mobile App Developer
 
+![](https://img.shields.io/badge/-CoreTechStack-black)
 ![](https://img.shields.io/badge/Flatform-Android-yellowgreen)
 ![](https://img.shields.io/badge/Language-Kotlin-blue)
 ![](https://img.shields.io/badge/Architecture-MVVM-skyblue)
