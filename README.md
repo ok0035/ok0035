@@ -1,5 +1,12 @@
 # :iphone: Mobile App Developer
 
+![](https://img.shields.io/badge/Flatform-Android-yellowgreen)
+![](https://img.shields.io/badge/Language-Kotlin-blue)
+![](https://img.shields.io/badge/Architecture-MVVM-skyblue)
+![](https://img.shields.io/badge/Architecture-CleanArchitecture-skyblue)
+![](https://img.shields.io/badge/Network-Retrofit-red)
+![](https://img.shields.io/badge/DI-Hilt-Green)
+
 [English Ver](https://github.com/ok0035/AboutMe/blob/main/README.md)
 
 <img src="https://github.com/ok0035/ok0035/assets/19370688/51f81c8f-338e-4afa-80f6-46a77b9959dd" width="210" height="360" alt="데이트팝1">
