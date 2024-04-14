@@ -80,13 +80,13 @@
           ![](https://img.shields.io/badge/DevTools-Xcode-orange)
           ![](https://img.shields.io/badge/DevTools-Postman-orange)
     - ***Collaboration Tools***
-        - ![](https://img.shields.io/badge/Collaboration-Jira-coral)
-          ![](https://img.shields.io/badge/Collaboration-Slack-coral)
-          ![](https://img.shields.io/badge/Collaboration-Notion-coral)
-          ![](https://img.shields.io/badge/Collaboration-Trello-coral)
+        - ![](https://img.shields.io/badge/CollaborationTools-Jira-coral)
+          ![](https://img.shields.io/badge/CollaborationTools-Slack-coral)
+          ![](https://img.shields.io/badge/CollaborationTools-Notion-coral)
+          ![](https://img.shields.io/badge/CollaborationTools-Trello-coral)
     - ***Design Tools***
-        - ![](https://img.shields.io/badge/Design-Figma-aqua)
-          ![](https://img.shields.io/badge/Design-Zeplin-aqua)
+        - ![](https://img.shields.io/badge/DesignTools-Figma-aqua)
+          ![](https://img.shields.io/badge/DesignTools-Zeplin-aqua)
 
 
 ## :zap: Links
