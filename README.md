@@ -4,7 +4,7 @@
 ![](https://img.shields.io/badge/Flatform-Android-yellowgreen)</br>
 ![](https://img.shields.io/badge/Language-Kotlin-blue)</br>
 ![](https://img.shields.io/badge/Architecture-MVVM-skyblue)
-![](https://img.shields.io/badge/Architecture-CleanArchitecture-skyblue)</br>
+![](https://img.shields.io/badge/-CleanArchitecture-skyblue)</br>
 ![](https://img.shields.io/badge/Network-Retrofit-red)</br>
 ![](https://img.shields.io/badge/DI-Hilt-Green)
 
