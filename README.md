@@ -1,11 +1,11 @@
 # :iphone: Mobile App Developer
 
-![](https://img.shields.io/badge/-CoreTechStack-black)
-![](https://img.shields.io/badge/Flatform-Android-yellowgreen)
-![](https://img.shields.io/badge/Language-Kotlin-blue)
+![](https://img.shields.io/badge/-CoreTechStack-black)</br>
+![](https://img.shields.io/badge/Flatform-Android-yellowgreen)</br>
+![](https://img.shields.io/badge/Language-Kotlin-blue)</br>
 ![](https://img.shields.io/badge/Architecture-MVVM-skyblue)
-![](https://img.shields.io/badge/Architecture-CleanArchitecture-skyblue)
-![](https://img.shields.io/badge/Network-Retrofit-red)
+![](https://img.shields.io/badge/Architecture-CleanArchitecture-skyblue)</br>
+![](https://img.shields.io/badge/Network-Retrofit-red)</br>
 ![](https://img.shields.io/badge/DI-Hilt-Green)
 
 
